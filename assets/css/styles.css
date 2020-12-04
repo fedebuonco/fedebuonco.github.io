@@ -138,3 +138,7 @@ code.highlighter-rouge  {
   width: 100%;
   height: 1.5rem;
 }
+
+#footer-note {
+  color: grey;
+}
