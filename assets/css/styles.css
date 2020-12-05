@@ -15,6 +15,14 @@
   font-style: Bold;
 }
 
+@font-face {
+  font-family: "Fira Code";
+  src: url("../fonts/FiraCode/static/FiraCode-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 :root {
   --primary: #dddddd;
   --secondary: #ffffff;
