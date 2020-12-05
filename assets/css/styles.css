@@ -2,15 +2,15 @@
 ---
 
 @font-face {
-  font-family: "Fira Code";
-  src: url("../fonts/FiraCode/static/FiraCode-Regular.ttf");
+  font-family: "Poppins";
+  src: url("../fonts/Poppins/Poppins-Regular.ttf");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Fira Code";
-  src: url("../fonts/FiraCode/static/FiraCode-SemiBold.ttf");
+  font-family: "Poppins";
+  src: url("../fonts/Poppins/Poppins-SemiBold.ttf");
   font-weight: normal;
   font-style: Bold;
 }
