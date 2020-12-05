@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: "Poppins";
+  font-family: "Poppins-SB";
   src: url("../fonts/Poppins/Poppins-SemiBold.ttf");
   font-weight: normal;
   font-style: Bold;
@@ -26,7 +26,7 @@
   --syntax-yellow: #e6db74;
   --syntax-purple: #ae81ff;
 
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+  font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 
              'Segoe UI', Roboto, 'Helvetica Neue', 
              Ubuntu, Arial, sans-serif;
 
