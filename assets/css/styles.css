@@ -24,8 +24,8 @@
 
 
 :root {
-  --primary: #dddddd;
-  --secondary: #ffffff;
+  --primary: #fbf1c7;
+  --secondary: #ebdbb2;
   --background: #1d2021;
   --syntax-background: #3c3836;
   --syntax-red: #fb4934;
@@ -44,8 +44,8 @@
 }
 
 [theme="light"] {
-  --primary: #333333;
-  --secondary: #000000;
+  --primary: #282828;
+  --secondary: #3c3836;
   --background: #fbf1c7;
   --syntax-background: #ebdbb2;
   --syntax-red: #9d0006;
