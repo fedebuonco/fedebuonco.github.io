@@ -26,13 +26,13 @@
 :root {
   --primary: #dddddd;
   --secondary: #ffffff;
-  --background: #222222;
-  --syntax-background: #1d1d1d;
-  --syntax-red: #f92672;
-  --syntax-green: #a6e22e;
-  --syntax-blue: #66d9ef;
-  --syntax-yellow: #e6db74;
-  --syntax-purple: #ae81ff;
+  --background: #1d2021;
+  --syntax-background: #3c3836;
+  --syntax-red: #fb4934;
+  --syntax-green: #b8bb26;
+  --syntax-blue: #83a598;
+  --syntax-yellow: #fabd2f;
+  --syntax-purple: #d3869b;
 
   font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 
              'Segoe UI', Roboto, 'Helvetica Neue', 
@@ -46,13 +46,13 @@
 [theme="light"] {
   --primary: #333333;
   --secondary: #000000;
-  --background: #eeeeee;
-  --syntax-background: #f4f4f4;
-  --syntax-red: #f9005a;
-  --syntax-green: #8eca16;
-  --syntax-blue: #1fb7e6;
-  --syntax-yellow: #b9ab27;
-  --syntax-purple: #7e42ee;
+  --background: #fbf1c7;
+  --syntax-background: #ebdbb2;
+  --syntax-red: #9d0006;
+  --syntax-green: #79740e;
+  --syntax-blue: #076678;
+  --syntax-yellow: #b57614;
+  --syntax-purple: #8f3f71;
 }
 
 
