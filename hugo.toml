@@ -1,0 +1,69 @@
+baseURL = "https://fedebuon.co/"
+languageCode = "en-us"
+theme = "anubis2"
+title = "fedebuon.co"
+
+[params.author]
+name = "fedebuonco"
+location = "Cork, Ireland"
+
+[params]
+description = "Personal Blog"
+paginationSinglePost = true
+colorTheme = "auto"
+colorThemeSwitcher = true
+rssAsSocialIcon = false
+toc = true
+
+[pagination]
+pagerSize = 5
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Posts"
+identifier = "posts"
+url = "/posts/"
+weight = 4
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+[markup]
+defaultMarkdownHandler = 'goldmark'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos      = false
+codeFences         = true # tested with true and false. Both work.
+noClasses          = true # If you run with markup.highlight.noClasses=false in your site configuration, you need a style sheet.
+style              = 'base16-snazzy'
+tabWidth           = 4
+
+[[params.social]]
+id = "github"
+url = "https://github.com/fedebuonco"
+
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/in/federico-buoncompagni/"
